@@ -33,7 +33,7 @@ Este script Python é projetado para realizar operações de Open Source Intelli
 3. Execute o script:
 
    ```bash
-   python seu_script.py
+   python main.py
    ```
 
 ## Contribuição
