@@ -1,45 +1,49 @@
 # OSINT Blogger
 
-Este script Python é projetado para realizar operações de Open Source Intelligence (OSINT) em sites construídos no Blogger. Ele oferece três funcionalidades principais:
+This Python script is designed to perform Open Source Intelligence (OSINT) operations on websites built on the Blogger platform. It offers three main functionalities:
 
-1. **Verificar se um site foi criado usando o Blogger**
-   - Essa função verifica se um site fornecido foi construído usando a plataforma Blogger.
+1. **Check if a site was created using Blogger**
+   - This function verifies if a provided website was built using the Blogger platform.
 
-2. **Identificar o perfil do proprietário de um blog no Blogger**
-   - Essa função procura por perfis associados a um site do Blogger e exibe os links para esses perfis.
+2. **Identify the owner's profile of a blog on Blogger**
+   - This function searches for profiles associated with a Blogger site and displays links to these profiles.
 
-3. **Identificar blogs públicos associados a um perfil no Blogger**
-   - Essa função identifica blogs públicos associados a um perfil no Blogger e exibe seus nomes e links.
+3. **Identify public blogs associated with a profile on Blogger**
+   - This function identifies public blogs associated with a profile on Blogger and displays their names and links.
 
-## Pré-requisitos
+## Prerequisites
 
 - Python 3
-- Bibliotecas Python necessárias: `requests`, `BeautifulSoup4`, `pyfiglet`
+- Required Python libraries: `requests`, `BeautifulSoup4`, `pyfiglet`
 
-## Como usar
+## How to Use
 
-1. Clone o repositório:
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/kensdy/OSINT-Blogger
    ```
 
-2. Instale as dependências:
+2. Install the dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Execute o script:
+3. Run the script:
 
    ```bash
    python main.py
    ```
 
-## Contribuição
+## Contribution
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests.
+Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## Licença
+## License
 
-Este projeto é licenciado sob a GNU General Public License v3 - veja o arquivo [LICENSE](LICENSE) para detalhes.
+This project is licensed under the GNU General Public License v3 - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Confira o [readme.md](https://github.com/kensdy/OSINT-Blogger/blob/main/PT-BR_README.md) em potuguês.
