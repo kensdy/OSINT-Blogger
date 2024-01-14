@@ -1,5 +1,5 @@
 # OSINT Blogger
-Inglês | [Português](README_pt.md)
+English | [Português](README_pt.md)
 
 
 This Python script is designed to perform Open Source Intelligence (OSINT) operations on websites built on the Blogger platform. It offers three main functionalities:
