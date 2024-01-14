@@ -1,7 +1,6 @@
 # OSINT Blogger
 Inglês | [Português](README_pt.md)
 
-[![Visualizações do Repositório](https://komarev.com/ghpvc/?username=kensdy&label=Visualizações&color=brightgreen)](https://github.com/kensdy/OSINT-Blogger/)
 
 This Python script is designed to perform Open Source Intelligence (OSINT) operations on websites built on the Blogger platform. It offers three main functionalities:
 
