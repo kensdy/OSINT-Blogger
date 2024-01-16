@@ -1,6 +1,7 @@
 # OSINT Blogger
 English | [Português](README_pt.md)
 
+[![Repository Views](https://komarev.com/ghpvc/?username=kensdybg&label=Views&color=brightgreen)](https://github.com/kensdy/IP-Finder-Infos)
 
 This Python script is designed to perform Open Source Intelligence (OSINT) operations on websites built on the Blogger platform. It offers three main functionalities:
 
